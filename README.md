@@ -19,6 +19,10 @@ The README file is in English, but most other materials are in Chinese.
 
 ### Undergraduate Students
 
+## Group Meetings
+
+[meetings.md](meetings.md)
+
 ## License
 
 Copyright (c) 2024, Dongdong Tian.
