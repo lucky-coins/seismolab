@@ -3,7 +3,17 @@
 ## Planned
 
 ## Current
+### 2024-10-17 / Yan Jun / Focal-Depth Determination
 
+- Murphy, J. R. (2006).
+  Improved Focal-Depth Determination through Automated Identification of the Seismic Depth Phases pP and sP. Bulletin of the Seismological Society of America,
+  96(4A), 1213–1229.
+  https://doi.org/10.1785/0120050259
+- Craig, T. J. (2019).
+  Accurate Depth Determination for Moderate‐Magnitude Earthquakes Using Global Teleseismic Data. Journal of Geophysical Research: Solid Earth, 124(2), 1759–1780.
+  https://doi.org/10.1029/2018JB016902
+
+## Past
 #### 2024-09-19 / LIU Xuan / 2024 Note earthquake
 
 - Wang, Q.-Y., Cui, X., Frank, W. B., Lu, Y., Hirose, T., & Obara, K. (2024).
@@ -29,9 +39,6 @@
   The 9 September 2016 North Korean Underground Nuclear Test. 
   Bulletin of the Seismological Society of America, 107(6), 3044–3051. 
   https://doi.org/10.1785/0120160355
-
-## Past
-
 <details>
 <summary> 2023 Fall Semester </summary>
 
